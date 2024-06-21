@@ -30,3 +30,5 @@ EzGitUpdater is a Python script that automatically pushes changes to a GitHub re
     ```sh
     python EzGitUpdater.py
     ```
+
+Made with ❤️ by mphank
