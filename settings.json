@@ -1,0 +1,5 @@
+{
+    "watch_directories": ["C:/Example/Folder/Path", "C:/Example/Folder/Path2", "C:/Example/Folder/Path3"],
+    "repo_path": "C:/Example/Repo/Path",
+    "branch": "main"
+}
